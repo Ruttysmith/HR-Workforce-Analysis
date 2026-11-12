@@ -1,2 +1,2 @@
 # HR-Workforce-Analysis
-HR Workforce Analytics and Business Intelligence Dashboard
+End-to-end HR Workforce Analytics and Power BI Dashboard
