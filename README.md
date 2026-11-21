@@ -16,6 +16,8 @@ I used Power BI, Power Query and DAX to carry out data preparation, feature engi
 **Dataset:** Synthetic employee workforce data  
 **Tools:** Power BI Desktop, Power Query, DAX, Excel/CSV and GitHub
 
+![HR Workforce Analytics Dashboard](images/Workforce-dashboard.png)
+
 ## 2. Business Problem
 
 HR teams need reliable information about their workforce to make informed operational and strategic decisions. However, raw employee records do not automatically reveal workforce patterns or potential areas requiring management attention.
@@ -64,8 +66,6 @@ This analysis addresses questions such as:
 8. Exploratory data analysis.
 9. Dashboard development.
 10. Insight generation and business recommendations.
-
-![HR Workforce Analytics Dashboard](images/Workforce-dashboard.png)
 
 ## 6. Data Preparation and Transformation
 
@@ -337,12 +337,12 @@ The analysis has several limitations that should be considered before using the 
 
 ## 15. Access the Project
 
-**Power BI File:** [Download the Power BI report](HR%20Project%20Workforce.pbix)
+**Power BI File:** [Download the Power BI Dashboard (.pbix)](HR%20Project%20Workforce.pbix)
 
-**Dashboard Preview:** See the screenshot above.
+**Dashboard Preview:** [View Dashboard Screenshot](images/workforce-dashboard.png)
 
-An interactive Power BI Service report link will be added here when public sharing has been configured and tested.
-
+To explore the interactive report, download the PBIX file
+and open it using Microsoft Power BI Desktop.
 ---
 
 **Project Author:** Ruth Yakubu  
