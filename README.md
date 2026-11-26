@@ -2,6 +2,10 @@
 
 An end-to-end workforce analytics project exploring employee demographics, workforce composition, employment status, departmental distribution, location and salary indicators using Power BI.
 
+![Power BI](https://img.shields.io/badge/Microsoft%20PowerBI-217346?style=for-the-badge&logo=microsoftpowerBI&logoColor=yellow)
+![Power Query](https://img.shields.io/badge/Power%20Query-5A2D82?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-HR%20Analysis-164B43?style=for-the-badge)
 
 ## 1. Project Overview
 
